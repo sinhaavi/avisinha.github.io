@@ -142,7 +142,7 @@ section .title::after{
     transform: translate(-50%);
 }
 .about .title::after{
-    content: "who i am";
+    content: "who I am";
 }
 .about .about-content, .services .services-content{
     display: flex;
